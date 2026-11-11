@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "title": "Attention Is All You Need",
+        "author": "Vaswani et al.",
+        "year": "2017",
+        "summary": "Introduced the Transformer architecture which became the foundation for modern LLMs."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "Mohammad Shafiul Azam",
+        "Bengali_Name": "মোহাম্মদ শফিউল আজম",
+        "Home_District": "Cumilla (কুমিল্লা)",
+        "Village": "Barbatua, Barura (বরুড়ার বরবাতুয়া)",
+        "Profession": "IT Auditor at Shahjalal Islami Bank PLC",
+        "Education": {
+            "School": "Hajinagar Valued High School (হাজিনগর ভ্যালুড উচ্চ বিদ্যালয়)",
+            "Intermediate": "Cumilla Victoria Government College (ভিক্টোরিয়া কলেজ)",
+            "University": "BSc Engineering from Sylhet International University"
+        },
+        "Family": {
+            "Wife": "Mst. Nurzahan Khatun (নূরজাহান)",
+            "Total_Children": 5,
+            "Sons": [
+                "Wadud Ahmed (ওয়াদুদ)",
+                "Rayan (রায়ান)",
+                "Sarim (সারিম)"
+            ],
+            "Daughters": [
+                "Sadia (সাদিয়া)",
+                "Sara (সারা)"
+            ]
+        }
+    },
+    {
+        "Name": "Kazi Nazrul Islam",
+        "Bengali_Name": "কাজী নজরুল ইসলাম",
+        "Home_District": "Burdwan (বর্ধমান)",
+        "Village": "Churulia (চুরুলিয়া)",
+        "Profession": "National Poet of Bangladesh",
+        "Education": {
+            "School": "Searsole Raj High School"
+        }
+    },
+    {
+        "Name": "Dr. Muhammad Yunus",
+        "Bengali_Name": "ড. মুহাম্মদ ইউনূস",
+        "Home_District": "Chattogram (চট্টগ্রাম)",
+        "Village": "Bathua, Hathazari (হাটহাজারীর বাথুয়া)",
+        "Profession": "Chief Adviser, Government of Bangladesh",
+        "Education": {
+            "University": "Vanderbilt University (PhD)"
+        }
+    }
+]
